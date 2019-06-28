@@ -16,7 +16,7 @@ const Header = () => {
 
   return (
     <header className={headerStyles.header}>
-      <h1>
+      <h1 className="">
         <Link to="/" className={headerStyles.title}>
           {data.site.siteMetadata.title}
         </Link>

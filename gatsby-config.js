@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Full-Stack Bootcamp",
+    title: "The Beardly Robot",
     author: "Tristan Stutzman",
   },
   plugins: [
