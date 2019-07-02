@@ -9,10 +9,8 @@ const ContactPage = () => {
       <Head title="Contact Me" />
       <h1>Contact</h1>
       <p>
-        867-5309 or tstutzman@beardlysoft.com{" "}
-        <a href="https://twitter.com/chickenteeth86" target="_blank">
-          Twitter me
-        </a>
+        Portfolio Webiste: <a href="https://www.beardlysoft.com">BeardlySoft.com</a><br />
+        Email: <a href="mailto:tstutzman@beardlysoft.com">tstutzman@beardlysoft.com</a>
       </p>
     </Layout>
   )

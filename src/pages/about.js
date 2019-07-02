@@ -8,9 +8,10 @@ const AboutPage = () => {
     <Layout>
       <Head title="About Me" />
       <h1>About Me</h1>
-      <p>I currently teach full-time on Udemy.</p>
-      <p>
-        <Link to="/contact">Want to work with me? Reach out.</Link>
+      <p>I am currently an IT Systems Engineer working towards making a switch
+        to the developer side of IT.  Once I get settled into that career I want to
+        focus on programming and building some robots, which is why I made this blog.
+        I plan to track progress and post updates and other articles here.
       </p>
     </Layout>
   )

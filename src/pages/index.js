@@ -2,15 +2,16 @@ import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Head from '../components/head'
+import image from '../components/images/robo-bg.jpg'
 
 const IndexPage = () => {
   return (
     <Layout>
       <Head title="Home" />
-      <h1>Hello.</h1>
-      <h2>I enjoy the cheese</h2>
+      <h1>Welcome to the Beardly Robot!</h1>
       <p>
-        Need a developer? <Link to="/contact">Contact me</Link>
+        Join my in my quest to learn about building and programming robots!
+        <img src={image} />
       </p>
     </Layout>
   )
